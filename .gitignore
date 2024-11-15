@@ -1,0 +1,4 @@
+/vendor/
+.env
+koneksi.php
+node_modules/
